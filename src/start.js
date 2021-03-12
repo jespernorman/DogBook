@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-fsdfs
+
 class Table extends Component {
   render() {
     return (

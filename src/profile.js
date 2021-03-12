@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-sdfsfd
+
 class Profile extends Component {
     loadDogs() {
         "here all dogs will be loaded"
