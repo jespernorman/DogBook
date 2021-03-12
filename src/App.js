@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Table from './start';
 import { Link } from 'react-router-dom';
 import create from './create';
-.
+
 <NavLink activeClassName="active" to="/about">About</NavLink>
 
 class App extends Component {
