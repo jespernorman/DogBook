@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import App from './App';
-
+dfsf
 class Create extends Component {
   userInfo () {
     var nameInput = document.getElementById("nameInput")
